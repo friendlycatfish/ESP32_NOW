@@ -1,4 +1,4 @@
 # ESP32_NOW
-Nguyễn Quang Lâm
-B22DCDT176
-VI MẠCH 2
+- Nguyễn Quang Lâm
+- B22DCDT176
+- VI MẠCH 2
